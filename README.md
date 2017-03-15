@@ -2,6 +2,8 @@
 
 From this *Docker Image* we can build containers to *Dockerize* the awesome *Visual Studio Code* editor.
 
+The recommend way to use this image is by using the [VSCode Docker CLI](https://gitlab.com/exadra37-dockerize-vscode/vscode-docker-cli).
+
 
 ## SHOW YOUR APPRECIATION
 
@@ -18,22 +20,22 @@ This package will adhere to this [Semantic Version](https://gitlab.com/exadra37-
 
 ## AUTHOR
 
-More information about the Author can be found [here](AUTHOR.md).
+More information about the Author can be found [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/AUTHOR.md).
 
 
 ## CONTRIBUTORS
 
-All contributors can be found [here](CONTRIBUTORS.md).
+All contributors can be found [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/CONTRIBUTORS.md).
 
 
 ## LICENSE
 
-This repository uses GPL-3.0 license, that you can find [here](LICENSE).
+This repository uses GPL-3.0 license, that you can find [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/LICENSE).
 
 
 ## CONTRIBUTING IN ISSUES / MERGE REQUESTS
 
-All contributions are welcome provided that they follow [Contributing Guidelines](CONTRIBUTING.md), where you can find
+All contributions are welcome provided that they follow [Contributing Guidelines](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/CONTRIBUTING.md), where you can find
 how to _Create an Issue_ and _Merge Request_.
 
 
@@ -46,22 +48,22 @@ Watch [Boards](https://gitlab.com/exadra37-docker-images/visual-studio-code/boar
 
 ## HOW TO INSTALL
 
-To install just follow detailed instructions from [here](docs/how-to/install.md).
+To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/docs/how-to/install.md).
 
 
 ## HOW TO UNINSTALL
 
-To uninstall just follow detailed instructions from [here](docs/how-to/uninstall.md).
+To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/docs/how-to/uninstall.md).
 
 
 ## HOW TO USE
 
-See usage examples [here](docs/how-to/use.md).
+See usage examples [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/docs/how-to/use.md).
 
 
 ## BRANCHES
 
-Branches are created as demonstrated [here](docs/how-to/create_branches.md).
+Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/visual-studio-code/blob/master/docs/how-to/create_branches.md).
 
 This are the type of branches we can see at any moment in the repository:
 
