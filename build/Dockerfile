@@ -16,11 +16,11 @@ FROM exadra37/dockerize-graphical-user-interface-app
 
 LABEL "com.exadra37.vendor"="Exadra37"
 LABEL com.exadra37.package-name="exadra37-docker-images/dockerize-visual-studio-code"
-LABEL version="0.0.1.0"
+LABEL version="0.0.1.1"
 LABEL description="Dockerize Visual Studio Code Editor."
 
-ARG CONTAINER_USER="${CONTAINER_USER:-dockerize}"
-ARG CONTAINER_UID="${CONTAINER_UID:-2000}"
+ARG CONTAINER_USER="${CONTAINER_USER:-vscode}"
+ARG CONTAINER_UID="${CONTAINER_UID:-3000}"
 ARG CONTAINER_SHELL="${CONTAINER_SHELL:-'/usr/bin/zsh'}"
 
 ARG VSC_DEB_FILE="vsc.deb"
